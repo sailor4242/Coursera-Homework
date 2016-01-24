@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+geodata.sqlite
+where.data
